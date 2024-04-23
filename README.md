@@ -18,7 +18,7 @@ GymPass style app.
 ## RNs (Regras de negócio) - os caminhos que cada requisito pode tomar. Ex: user só pode fazer checkin se tiver em um raio de 10km da academia x
 
 - [x] O user não pode se cadastrar com email duplicado;
-- [ ] O user não pode fazer 2 check-in no mesmo dia;
+- [x] O user não pode fazer 2 check-in no mesmo dia;
 - [ ] O user não pode fazer checkin se não estiver em um raio de 100m da academia;
 - [ ] O check-in só pode ser validado após 20 min de ser criado;
 - [ ] O check-in só pode ser validado por admins;
